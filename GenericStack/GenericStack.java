@@ -1,3 +1,4 @@
+package GenericStack;
 import java.util.ArrayList;
 
 /**
@@ -61,3 +62,4 @@ public class GenericStack<E> {
         return "Stack: " + list.toString();
     }
 }
+
